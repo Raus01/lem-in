@@ -1,7 +1,7 @@
 # LEM-IN
 a digital version of an ant farm
 
-## Objective 
+## Project objective 
 
 Create a program lem-in that will read from a file (describing the ants and the colony) given in the arguments.
 
